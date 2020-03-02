@@ -1,0 +1,64 @@
+Pramoj@DESKTOP-0VA1CIF MINGW64 ~
+$ cd
+
+Pramoj@DESKTOP-0VA1CIF MINGW64 ~
+$ cd /c
+
+Pramoj@DESKTOP-0VA1CIF MINGW64 /c
+$ ls
+'!qhlogs.doc'                      pagefile.sys
+'$Recycle.Bin'/                    PerfLogs/
+'$WINRE_BACKUP_PARTITION.MARKER'  'Program Files'/
+ AVScanner.ini                    'Program Files (x86)'/
+ cfrbackup-OMZBZTRL/               ProgramData/
+ Dell/                             Recovery/
+'Documents and Settings'@          swapfile.sys
+ DummyDir/                        'System Volume Information'/
+ git/                              temp/
+ hiberfil.sys                      Users/
+ Intel/                            Windows/
+ IntelOptaneData/                  Windows.old/
+ logs/                             WinPEpge.sys
+ OneDriveTemp/
+
+Pramoj@DESKTOP-0VA1CIF MINGW64 /c
+$ cd git/
+
+Pramoj@DESKTOP-0VA1CIF MINGW64 /c/git
+$ ls
+
+Pramoj@DESKTOP-0VA1CIF MINGW64 /c/git
+$ git config --global user.name "Pramoj1"
+
+Pramoj@DESKTOP-0VA1CIF MINGW64 /c/git
+$ git config --global user.email pramojg@gmail.com
+
+Pramoj@DESKTOP-0VA1CIF MINGW64 /c/git
+$ git clone https://github.com/Pramoj1/TestGit.git
+Cloning into 'TestGit'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 610 bytes | 43.00 KiB/s, done.
+
+Pramoj@DESKTOP-0VA1CIF MINGW64 /c/git
+$ ls
+TestGit/
+
+Pramoj@DESKTOP-0VA1CIF MINGW64 /c/git
+$ cd TestGit/
+
+Pramoj@DESKTOP-0VA1CIF MINGW64 /c/git/TestGit (master)
+$ ls
+README.md
+
+Pramoj@DESKTOP-0VA1CIF MINGW64 /c/git/TestGit (master)
+$ ls
+README.md
+
+Pramoj@DESKTOP-0VA1CIF MINGW64 /c/git/TestGit (master)
+$ ls
+README.md  test.txt
+
+Pramoj@DESKTOP-0VA1CIF MINGW64 /c/git/TestGit (master)
+$
